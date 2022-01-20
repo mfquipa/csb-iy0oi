@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://mfquipa.github.io/csb-iy0oi/static/css/main.f75b724c.chunk.css",
+    "main.js": "https://mfquipa.github.io/csb-iy0oi/static/js/main.9ccbfb40.chunk.js",
+    "main.js.map": "https://mfquipa.github.io/csb-iy0oi/static/js/main.9ccbfb40.chunk.js.map",
+    "runtime-main.js": "https://mfquipa.github.io/csb-iy0oi/static/js/runtime-main.d9ac9dc3.js",
+    "runtime-main.js.map": "https://mfquipa.github.io/csb-iy0oi/static/js/runtime-main.d9ac9dc3.js.map",
+    "static/js/2.1408a85b.chunk.js": "https://mfquipa.github.io/csb-iy0oi/static/js/2.1408a85b.chunk.js",
+    "static/js/2.1408a85b.chunk.js.map": "https://mfquipa.github.io/csb-iy0oi/static/js/2.1408a85b.chunk.js.map",
+    "index.html": "https://mfquipa.github.io/csb-iy0oi/index.html",
+    "static/css/main.f75b724c.chunk.css.map": "https://mfquipa.github.io/csb-iy0oi/static/css/main.f75b724c.chunk.css.map",
+    "static/js/2.1408a85b.chunk.js.LICENSE.txt": "https://mfquipa.github.io/csb-iy0oi/static/js/2.1408a85b.chunk.js.LICENSE.txt",
+    "static/media/corazon.dbb80d69.svg": "https://mfquipa.github.io/csb-iy0oi/static/media/corazon.dbb80d69.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9ac9dc3.js",
+    "static/js/2.1408a85b.chunk.js",
+    "static/css/main.f75b724c.chunk.css",
+    "static/js/main.9ccbfb40.chunk.js"
+  ]
+}
